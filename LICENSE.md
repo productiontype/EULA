@@ -19,7 +19,7 @@ Production Systems SAS and the User are hereinafter jointly defined as the “Pa
 
 The purpose of the License Agreement is to grant the non-exclusive right of use to the Font Software, and to specify the conditions under which Production Systems SAS authorizes the User to use the Font Software and its components, including the Font and the Typeface.
 
-##ARTICLE 3 – USER LICENSE
+## ARTICLE 3 – USER LICENSE
 
 Production Systems SAS grants the User, subject to their full respect of this License Agreement, and in particular subject to full payment of the remuneration agreed between the Parties as indicated in article 7 of this agreement, a non-exclusive authorization to use the Font Software.
 
